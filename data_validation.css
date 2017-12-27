@@ -1,0 +1,25 @@
+.container {
+  padding: 20px;
+}
+
+input#from {
+  display: block;
+}
+
+input#to {
+  display: block;
+}
+
+input#name {
+  display: block;
+}
+
+.red {
+  color: red;
+}
+
+button {
+  color: white;
+  background-color: blue;
+  margin-top: 10px;
+}
